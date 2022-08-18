@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Danone",
+    "razonSocial": "Lacteos Danone",
+    "direccion": "direccion 1"
+  },
+  {
+    "nombre": "movistar",
+    "razonSocial": "Movistar SA de CV",
+    "direccion": "direccion 3"
+  },
+  {
+    "nombre": "Telcel",
+    "razonSocial": "Radio Movil Dipsa",
+    "direccion": "direccion 3"
+  }
+]
